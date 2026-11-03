@@ -1,0 +1,11 @@
+venv1/
+venv/
+__pycache__/
+*.pyc
+week02
+week03
+week04
+week05
+week06
+my_project/
+.env
